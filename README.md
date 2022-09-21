@@ -3,6 +3,5 @@
 
 <text align="left">I love Python and FastApi!</text>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubermensch124&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
